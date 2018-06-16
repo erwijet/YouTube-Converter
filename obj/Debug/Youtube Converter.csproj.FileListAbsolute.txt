@@ -1,0 +1,23 @@
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\bin\Debug\Youtube Converter.exe.config
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\bin\Debug\Youtube Converter.exe
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\bin\Debug\Youtube Converter.pdb
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\bin\Debug\libvideo.dll
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\bin\Debug\MediaToolkit.dll
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\obj\Debug\Youtube Converter.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\obj\Debug\Youtube Converter.exe
+c:\users\tyler\documents\visual studio 2017\Projects\Youtube Converter\Youtube Converter\obj\Debug\Youtube Converter.pdb
+H:\Youtube Converter\Youtube Converter\bin\Debug\Youtube Converter.exe.config
+H:\Youtube Converter\Youtube Converter\bin\Debug\Youtube Converter.exe
+H:\Youtube Converter\Youtube Converter\bin\Debug\Youtube Converter.pdb
+H:\Youtube Converter\Youtube Converter\bin\Debug\libvideo.dll
+H:\Youtube Converter\Youtube Converter\bin\Debug\MediaToolkit.dll
+H:\Youtube Converter\Youtube Converter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Youtube Converter\Youtube Converter\obj\Debug\Youtube Converter.csprojResolveAssemblyReference.cache
+H:\Youtube Converter\Youtube Converter\obj\Debug\Youtube_Converter.MainForm.resources
+H:\Youtube Converter\Youtube Converter\obj\Debug\Youtube Converter.csproj.GenerateResource.Cache
+H:\Youtube Converter\Youtube Converter\obj\Debug\Youtube Converter.exe
+H:\Youtube Converter\Youtube Converter\obj\Debug\Youtube Converter.pdb
+H:\Youtube Converter\Youtube Converter\bin\Debug\MaterialSkin.dll
+H:\Youtube Converter\Youtube Converter\bin\Debug\MaterialSkin.pdb
+H:\Youtube Converter\Youtube Converter\obj\Debug\Youtube_Converter.Properties.Resources.resources
